@@ -1,0 +1,22 @@
+2025-01-21 23:26:04 [main] INFO : Запуск браузера Chrome
+2025-01-21 23:26:04 [main] INFO : Окно браузера увеличено
+2025-01-21 23:26:29 [main] INFO : Открыт веб-сайт DemoQA: https://demoqa.com/text-box
+2025-01-21 23:26:29 [main] INFO : Введено имя пользователя: Test User
+2025-01-21 23:26:29 [main] INFO : Введен email пользователя: testuser@example.com
+2025-01-21 23:26:30 [main] ERROR: Произошла ошибка: element click intercepted: Element <button id="submit" type="button" class="btn btn-primary">...</button> is not clickable at point (1072, 712). Other element would receive the click: <iframe frameborder="0" src="https://b3f931f3671d7449c86aadce4f59dcf0.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html" id="google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0" title="3rd party ad content" name="" scrolling="no" marginwidth="0" marginheight="0" width="728" height="90" data-is-safeframe="true" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="private-state-token-redemption;attribution-reporting" aria-label="Advertisement" tabindex="0" data-google-container-id="1" style="border: 0px; vertical-align: bottom;" data-load-complete="true"></iframe>
+  (Session info: chrome=132.0.6834.84)
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.1', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [434d5a967a6642fe106b7c1bb4c99a17, clickElement {id=f.D5B81DB0BB51CA17B28BBFF80366E3C1.d.392792487151C14A10D4D6DA686CA7D2.e.73}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 132.0.6834.84, chrome: {chromedriverVersion: 132.0.6834.83 (03d59cf5ecf1..., userDataDir: /var/folders/7k/6yghdzb14t3...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58657}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:58657/devtoo..., se:cdpVersion: 132.0.6834.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (434d5a967a6642fe106b7c1bb4c99a17)] -> id: submit]
+Session ID: 434d5a967a6642fe106b7c1bb4c99a17
+2025-01-21 23:26:30 [main] INFO : Браузер закрыт
+2025-01-25 18:32:53 [main] INFO : Запуск браузера Chrome
+2025-01-25 18:32:53 [main] INFO : Окно браузера увеличено
+2025-01-25 18:32:58 [main] INFO : Открыт веб-сайт DemoQA: https://demoqa.com/text-box
+2025-01-25 18:32:58 [main] INFO : Введено имя пользователя: Test User
+2025-01-25 18:32:58 [main] INFO : Введен email пользователя: testuser@example.com
+2025-01-25 18:32:58 [main] INFO : Результат отображается успешно
+2025-01-25 18:32:58 [main] INFO : Браузер закрыт
