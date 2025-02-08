@@ -16,7 +16,7 @@ public class FlightBookingTest {
 
     @BeforeTest
     public void setUp() {
-        System.setProperty("webdriver.chrome.driver", "/opt/homebrew/bin/chromedriver"); // Укажите путь к ChromeDriver
+        System.setProperty("webdriver.chrome.driver", "/opt/homebrew/bin/chromedriver");
         driver = new ChromeDriver();
         driver.get("https://www.blazedemo.com/");
     }
@@ -46,6 +46,6 @@ public class FlightBookingTest {
 
     @AfterTest
     public void tearDown() {
-        driver.quit();
+//        driver.quit();
     }
 }
